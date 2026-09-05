@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Madawa Rajapaksha
+# 👋 Hi there! I'm Madawa Vishwajith Rajapaksha
 
 <h3 align="center">
   🚀 Aspiring DevOps Engineer | 💻 Software Engineering Graduate
@@ -89,9 +89,11 @@ Infrastructure Automation
 
 
 🌐 Connect With Me
-<p> <a href="https://github.com/madawaMax"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <!-- Replace with your LinkedIn URL --> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <!-- Replace with your Portfolio URL --> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p>
+<p> <a href="https://github.com/madawaMax"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/madawa-vishwajith-5a78112a7/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a><a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p>
 
 
 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=madawaMax&theme=tokyo-night&hide_border=true" /> </p>
+
+
 <p align="center"> ⭐ Thanks for visiting my profile! </p> <p align="center"> <i>Learning • Building • Automating • Improving 🚀</i> </p> ```
