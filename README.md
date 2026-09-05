@@ -81,4 +81,4 @@ Infrastructure Automation
 <p> <a href="https://github.com/madawaMax"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/madawa-vishwajith-5a78112a7/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a><a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> </p>
 
 
-<p align="center"> ⭐ Thanks for visiting my profile! </p> <p align="center"> <i>Learning • Building • Automating • Improving 🚀</i> </p> ```
+<p align="center"> ⭐ Thanks for visiting my profile! </p> <p align="center"></p> 
